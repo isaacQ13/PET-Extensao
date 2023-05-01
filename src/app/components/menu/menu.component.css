@@ -3,7 +3,11 @@
     padding: 10px;
 }
 a{
+    
     text-decoration: none;
     color: white;
     font-family: Poppins;
+}
+.dados{
+    margin-left: 100px;
 }

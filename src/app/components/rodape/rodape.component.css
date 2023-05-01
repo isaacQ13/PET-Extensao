@@ -1,3 +1,31 @@
+.btn-primary{
+    margin-top: 100px;
+    margin-left: 800px;
+    font-size: large;
+    color: white;
+    border-end-start-radius: 50px;
+    border-top-left-radius: 50px;
+    height: 30px;
+    width: 90px;
+    border-width: 0px;
+    border-color: #F5426E;
+    padding: 20px;
+    background-color: #F5426E;
+
+}
+.btn-secondary{
+    margin-top: auto;
+    font-size: large;
+    border-top-right-radius: 50px;
+    border-end-end-radius: 50px;
+    height: 20px;
+    width: 30px;
+    border-width: 0px;
+    border-color: #00047B;
+    color: white;
+    padding: 20px;
+    background-color: #00047B;
+}
 footer{
     background: #F5426E;
     height: 3px;
@@ -6,4 +34,9 @@ footer{
     margin: auto;
     bottom: 0;
     position: fixed;
+}
+.texto{
+    margin-left: 100px;
+    font-size: large;
+    color: gray;
 }
